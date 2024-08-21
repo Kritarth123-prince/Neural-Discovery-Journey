@@ -39,7 +39,7 @@ Install the required dependencies with:
         Research Chronicles: Dive into research_chronicles for deep insights and findings.
         Experimental Lab: Check out experimental_lab for cutting-edge trials and tests.
 
-🔬 How to Use
+## 🔬 How to Use
 
     Jupyter Notebooks: Launch Jupyter to explore interactive notebooks:
 
@@ -54,7 +54,7 @@ Python Scripts: Run Python scripts directly to execute various experiments:
 ```bash
     python your_script.py
 
-🤝 Contributing
+##🤝 Contributing
 
 Your insights and contributions are welcome! If you’re passionate about AI and ML:
 
@@ -64,13 +64,13 @@ Your insights and contributions are welcome! If you’re passionate about AI and
     Submit a Pull Request
 
 Let’s co-create and push the frontiers of knowledge together!
-📜 License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-🌐 Acknowledgments
+##🌐 Acknowledgments
 
 A special shoutout to the pioneers in AI and machine learning whose work inspires our journey. Thanks to the open-source community for providing the tools and libraries that make this journey possible.
-📫 Contact
+##📫 Contact
 
 Have questions or feedback? Feel free to reach out:
 
@@ -82,7 +82,7 @@ Join the Neural-Discovery-Journey and let’s explore the future of AI together!
 
 
 ### Customization Notes:
-1. **Personalize Links**: Replace placeholders like `yourusername` and `your.email@example.com` with your actual details.
+1. **Personalize Links**: Replace placeholders like `Kritarth123-prince` and `kritarthranjan5053@gmail.com` with your actual details.
 2. **Adjust Paths**: Update directory names and paths based on your specific project structure.
 3. **Add Unique Touches**: Feel free to add more details or sections that reflect your unique approach and findings.
 
